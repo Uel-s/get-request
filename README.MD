@@ -40,7 +40,7 @@ When you run the script, you should see an output similar to the following:
 3. Copy the url from JSON placeholder
 4. paste the url from JSON placeholder
 5.Click send
-![xrdcf](resources/postman.png =1000x600)
+![xrdcf](resources/postman.png = 1000x600)
 <Response [200]>
 
 
