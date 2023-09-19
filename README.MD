@@ -27,11 +27,20 @@ This Python script demonstrates how to make an HTTP GET request using the `reque
 - Python Interpreter: CPython
 - Requests Library Version: [Insert version if necessary]
 
-## Example Output
+## Example Output Terminal
 
 When you run the script, you should see an output similar to the following:
 
+![xrdcf](resources/terminal.png)
 
+## Example output Postman
+
+1. open the postman
+2. in the dropdown menu select get
+3. Copy the url from JSON placeholder
+4. paste the url from JSON placeholder
+5.Click send
+![xrdcf](resources/postman.png =1000x600)
 <Response [200]>
 
 
